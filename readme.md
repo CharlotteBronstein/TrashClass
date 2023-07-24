@@ -1,7 +1,7 @@
-# Project Name
+# Trash Classifier
 
  Add short description of project here > 
-This project can tell the difference between landfill and recycling in real time.
+This project can tell the difference between landfill and recycling.
 ![add image descrition here](direct image link here)
 
 ## The Algorithm
@@ -10,7 +10,6 @@ This algorithm works by using a pre-trained classification network and retrainin
 
 ## Running this project
 
-1. Run all the code inside of the notebook. 
-2. make sure you have a USB camera plugged into the nano
+1. 
 
 [View a video explanation here](video link)

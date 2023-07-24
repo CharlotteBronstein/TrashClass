@@ -1,7 +1,8 @@
 # Trash Classifier
 
 This project can tell the difference between landfill and recycling.
-(direct image link here)
+
+<img width="815" alt="Screenshot 2023-07-23 at 9 14 52 PM" src="https://github.com/CharlotteBronstein/TrashClass/assets/140207456/c08a5c67-ee50-454a-8914-6cde100d42e5">
 
 ## The Algorithm
 

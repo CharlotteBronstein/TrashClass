@@ -44,4 +44,4 @@ imagenet.py --model=path/to/resnet18.onnx --input_blob=input_0 --output_blob=out
 
 5. View your result in the output file that you named
 
-[Click Here to view an example of this program running]https://youtu.be/SJlHo7QzScg 
+[Click Here to view an example of this program running](https://youtu.be/SJlHo7QzScg) 

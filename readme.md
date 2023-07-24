@@ -42,4 +42,6 @@ This algorithm works by using a trained classification network and retraining it
 imagenet.py --model=path/to/resnet18.onnx --input_blob=input_0 --output_blob=output_0 labels=path/to/labels.txt path/to/photo name_of_output.jpg
 
 5. View your result in the output file that you named
-[View a video explanation here](video link)
+
+[Screen Recording 2023-07-23 at 9.02.17 PM.zip](https://github.com/CharlotteBronstein/TrashClass/files/12142750/Screen.Recording.2023-07-23.at.9.02.17.PM.zip)
+

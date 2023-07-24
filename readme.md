@@ -43,5 +43,5 @@ imagenet.py --model=path/to/resnet18.onnx --input_blob=input_0 --output_blob=out
 
 5. View your result in the output file that you named
 
-[Screen Recording 2023-07-23 at 9.02.17 PM.zip](https://github.com/CharlotteBronstein/TrashClass/files/12142750/Screen.Recording.2023-07-23.at.9.02.17.PM.zip)
+[Click Here to view an example of this program running](https://github.com/CharlotteBronstein/TrashClass/files/12142750/Screen.Recording.2023-07-23.at.9.02.17.PM.zip)
 
